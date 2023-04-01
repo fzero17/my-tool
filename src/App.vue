@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="w-full">
+  <div class="w-full h-full">
     <QrCode/>
   </div>
 </template>
@@ -12,11 +12,5 @@
 header {
   line-height: 1.5;
 }
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
 
 </style>
