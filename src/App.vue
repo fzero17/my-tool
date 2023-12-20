@@ -1,5 +1,5 @@
 <script setup>
-  import QrCode from "@/components/QrCode.vue";
+  import QrCode from "@/components/qrcode/index.vue"
 </script>
 
 <template>

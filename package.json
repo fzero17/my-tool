@@ -2,7 +2,7 @@
   "name": "my-tool",
   "version": "0.0.1",
   "private": true,
-  "homepage": "http://wangshu.xyz/my-tool/",
+  "homepage": "https://fzero17.com/my-tool/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
